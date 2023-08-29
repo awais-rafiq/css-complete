@@ -1,0 +1,23 @@
+*body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* h1{
+    color:red;
+}
+p{
+    color: rgb(229, 251, 244);
+} */
+
+
+h1{
+    /* background-color: aqua; */
+}
+.background{
+    background-image: url("./pic.jpeg");
+    height: 1000px;
+    width: 1000px;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center;
+
+}
